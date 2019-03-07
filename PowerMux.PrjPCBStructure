@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=PowerMux.SchDoc
+Record=SheetSymbol|SourceDocument=PowerMux.SchDoc|Designator=U_CellMonitor|SchDesignator=U_CellMonitor|FileName=CellMonitor.SchDoc|SymbolType=Normal|RawFileName=CellMonitor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PowerMux.SchDoc|Designator=U_CurrentMonitor|SchDesignator=U_CurrentMonitor|FileName=CurrentMonitor.SchDoc|SymbolType=Normal|RawFileName=CurrentMonitor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PowerMux.SchDoc|Designator=U_Supplies|SchDesignator=U_Supplies|FileName=Supplies.SchDoc|SymbolType=Normal|RawFileName=Supplies.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PowerMux.SchDoc|Designator=U_Switches|SchDesignator=U_Switches|FileName=Switches.SchDoc|SymbolType=Normal|RawFileName=Switches.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
